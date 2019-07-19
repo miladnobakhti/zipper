@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "sans";
+    src:url("../font/sans.ttf");
+}
+@font-face {
+    font-family: "sansMedium";
+    src:url("../font/SansM.ttf");
+}
+@font-face {
+    font-family: "sansLight";
+    src:url("../font/sansL.ttf");
+}
+@font-face {
+    font-family: "sansBold";
+    src:url("../font/sansBold.ttf");
+}
+@font-face {
+    font-family: "sansBlack";
+    src:url("../font/sansBlack.ttf");
+}
+@font-face {
+    font-family: "sansUltraL";
+    src:url("../font/sansUltraL.ttf");
+}
+.sans{
+    font-family: Sans!important;
+}
+.sansmedium{
+    font-family: SansMedium;
+}
+.sansBlack{
+    font-family: sansBlack;
+}
+.sansLight{
+    font-family: sansLight;
+}
+.sansBold{
+    font-family: sansBold;
+}
+.sansUltra{
+    font-family: sansUltraL;
+}
